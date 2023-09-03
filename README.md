@@ -33,3 +33,5 @@ Best model achieved is using random forest with this parameter
 Resulting in MAE Score of 79.9, a relatively small number compared to the car prices
 
 ![Random Forest Scatter Plot](./Random%20Forest%20Output.png "Random Forest Scatter Plot")
+
+Then from this prediction we can now wether the car is worth to buy or not based on the threshold set
